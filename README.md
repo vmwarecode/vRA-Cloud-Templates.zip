@@ -1,1 +1,0 @@
-# vRA-Cloud-Templates.zip
